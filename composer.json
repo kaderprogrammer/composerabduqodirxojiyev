@@ -1,6 +1,6 @@
 {
-    "name": "user/comp",
-    "description": "Description for composer",
+    "name": "user/comp-kaderprogrammer",
+    "description": "Description for composer package Abduqodir Xojiyev",
     "type": "library",
     "license": "MIT",
     "authors": [
