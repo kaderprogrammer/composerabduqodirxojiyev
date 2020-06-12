@@ -8,5 +8,13 @@
     		"Abduqodir\\": "src/"
     	}
     },
-    "require": {}
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kaderprogrammer/composerabduqodirxojiyev"
+        }
+    ],
+    "require": {
+        "kaderprogrammer/composerabduqodirxojiyev": "axd-composer-axd"
+    }
 }
