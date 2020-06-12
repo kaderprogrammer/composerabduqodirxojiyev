@@ -3,18 +3,19 @@
     "description": "Description for composer",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-    	"psr-4": {
-    		"User\\": "src/"
-    	}
-    },
-    "repositories": [
+    "authors": [
         {
-            "type": "vcs",
-            "url": "https://github.com/kaderprogrammer/composerabduqodirxojiyev"
+            "name": "Kaderprogrammer",
+            "email": "abduqodirxojiyev@gmail.com"
         }
     ],
+    "autoload": {
+    	"psr-4": {
+    		"Abduqodir\\": "src/"
+    	}
+    },
+    "minimum-stability": "stable",
     "require": {
-        "kaderprogrammer/composerabduqodirxojiyev": "axd-composer-axd"
+        "php": ">=5.4.0"
     }
 }
