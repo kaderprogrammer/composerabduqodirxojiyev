@@ -1,0 +1,12 @@
+{
+    "name": "user/comp",
+    "description": "Description for composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+    	"psr-4": {
+    		"Abduqodir\\": "src/"
+    	}
+    },
+    "require": {}
+}
